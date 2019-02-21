@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: Gatsby and a new start
 date: "2019-02-19T06:55:03.284Z"
 ---
 
