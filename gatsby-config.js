@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Felix Creates`,
+    title: `Software Helps`,
     author: `Felix Clack`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Thoughts on writing software that helps.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       twitter: `felixclack`,
