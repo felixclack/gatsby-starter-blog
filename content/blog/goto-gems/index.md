@@ -9,6 +9,7 @@ For me, I find it useful to have a standard template that sets up the common stu
 
 Let's start with the Gemfile:
 
+```javascript
     source 'https://rubygems.org'
 
     gem 'rails'
@@ -33,6 +34,7 @@ Let's start with the Gemfile:
       gem 'capybara-webkit'
       gem 'rspec-rails'
     end
+```
 
 ### gem 'rails'
 
