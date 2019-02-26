@@ -5,7 +5,8 @@ module.exports = {
     description: `Thoughts on writing software that helps.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `felixclack`,
+      instagram: 'kid3ighty',
+      twitter: `felixclack`
     },
   },
   plugins: [
